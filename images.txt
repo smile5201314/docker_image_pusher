@@ -5,5 +5,4 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 container-registry-seoul.oracle.com/database/free:latest
-container-registry.oracle.com/database/free:latest-lite
 mysql:8.0.28
