@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 container-registry-seoul.oracle.com/database/free:latest
 mysql:8.0.28
+mysql
