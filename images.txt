@@ -7,3 +7,4 @@ nginx
 container-registry-seoul.oracle.com/database/free:latest
 mysql:8.0.28
 mysql
+nvidia/cuda:13.0.0-base-ubuntu24.04
